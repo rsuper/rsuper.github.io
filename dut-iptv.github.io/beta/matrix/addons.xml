@@ -6,18 +6,18 @@
     </requires>
     <extension point="xbmc.addon.repository" name="Dutch IPTV Beta Repository">
       <dir minversion="18.9.0">
-        <info compressed="false">https://dut-iptv.github.io/beta/matrix/addons.xml</info>
-        <checksum>https://dut-iptv.github.io/beta/matrix/addons.xml.md5</checksum>
-        <datadir zip="true">https://dut-iptv.github.io/beta/matrix/</datadir>
+        <info compressed="false">https://rsuper.github.io/dut-iptv.github.io/beta/matrix/addons.xml</info>
+        <checksum>https://rsuper.github.io/dut-iptv.github.io/beta/matrix/addons.xml.md5</checksum>
+        <datadir zip="true">https://rsuper.github.io/dut-iptv.github.io/beta/matrix/</datadir>
         <hashes>false</hashes>
-        <artdir>https://dut-iptv.github.io/beta/matrix/</artdir>
+        <artdir>https://rsuper.github.io/dut-iptv.github.io/beta/matrix/</artdir>
       </dir>
       <dir minversion="19.0.0">
-        <info compressed="false">https://dut-iptv.github.io/beta/matrix/addons.xml</info>
-        <checksum>https://dut-iptv.github.io/beta/matrix/addons.xml.md5</checksum>
-        <datadir zip="true">https://dut-iptv.github.io/beta/matrix/</datadir>
+        <info compressed="false">https://rsuper.github.io/dut-iptv.github.io/beta/matrix/addons.xml</info>
+        <checksum>https://rsuper.github.io/dut-iptv.github.io/beta/matrix/addons.xml.md5</checksum>
+        <datadir zip="true">https://rsuper.github.io/dut-iptv.github.io/beta/matrix/</datadir>
         <hashes>false</hashes>
-        <artdir>https://dut-iptv.github.io/beta/matrix/</artdir>
+        <artdir>https://rsuper.github.io/dut-iptv.github.io/beta/matrix/</artdir>
       </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
